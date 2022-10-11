@@ -19,3 +19,6 @@
 * Fujii Kaze
 * 찬호께이
 * Alberto Mielgo
+* 이마이시 히로유키
+* 콘 사토시
+* 유아사 
