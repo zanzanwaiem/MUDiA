@@ -23,3 +23,10 @@
 * Kon Satoshi
 * 유아사 마사아키
 * 아라키 히로히코
+
+## 깃허브 용어 정리
+* Repositary (저장소)
+* Forking
+* Clone
+* Commit
+* Push / Pull
