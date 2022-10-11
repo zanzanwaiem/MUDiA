@@ -14,3 +14,8 @@
 ### 색
 * `#FFC400`
 * `#152DA9`
+
+### 아티스트
+* Fujii Kaze
+* 찬호께이
+* Alberto Mielgo
