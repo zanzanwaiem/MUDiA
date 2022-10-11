@@ -8,4 +8,4 @@
 ## 바나나 원숭이
 * 알러지 원숭이
 * 난 바나나를 너무 좋아해
-* youtube.com
+* https://www.youtube.com/
