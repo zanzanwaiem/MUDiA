@@ -19,7 +19,7 @@
 * Fujii Kaze
 * 찬호께이
 * Alberto Mielgo
-* 이마이시 히로유키
-* 콘 사토시
+* Imaishi Hiroyuki
+* Kon Satoshi
 * 유아사 마사아키
 * 아라키 히로히코
